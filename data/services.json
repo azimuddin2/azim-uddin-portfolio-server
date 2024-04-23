@@ -1,0 +1,32 @@
+[
+    {
+        "image": "https://i.ibb.co/Pjv1RLb/website-design.png",
+        "name": "Website Design",
+        "description": ""
+    },
+    {
+        "image": "https://i.ibb.co/YpyQT3J/responsive-website.png",
+        "name": "Responsive Website",
+        "description": ""
+    },
+    {
+        "image": "https://i.ibb.co/KGg3GV3/web-development.png",
+        "name": "Web Development",
+        "description": ""
+    },
+    {
+        "image": "https://i.ibb.co/vcb3XFW/frontend-development.png",
+        "name": "Frontend Development",
+        "description": ""
+    },
+    {
+        "image": "https://i.ibb.co/gd32ymd/backend-development.png",
+        "name": "Backend Development",
+        "description": ""
+    },
+    {
+        "image": "https://i.ibb.co/vQZBwSB/full-stack-development.png",
+        "name": "Full Stack Development",
+        "description": ""
+    }
+]
