@@ -2,31 +2,31 @@
     {
         "image": "https://i.ibb.co/Pjv1RLb/website-design.png",
         "name": "Website Design",
-        "description": ""
+        "description": "Website design HTML and CSS mastery. Structural markup with HTML. Styling and layout with CSS. Seamless fusion for captivating web experiences."
     },
     {
         "image": "https://i.ibb.co/YpyQT3J/responsive-website.png",
         "name": "Responsive Website",
-        "description": ""
+        "description": "Responsive website Adapts to various devices. Ensures optimal viewing experience. Flexible layout adjusts to screen size. Enhanced user experience across desktops, tablets, and mobile phones."
     },
     {
         "image": "https://i.ibb.co/KGg3GV3/web-development.png",
         "name": "Web Development",
-        "description": ""
+        "description": "Web development refers to the creating, building, and maintaining of websites. It includes aspects such as web design, web publishing, web programming, and database management."
     },
     {
         "image": "https://i.ibb.co/vcb3XFW/frontend-development.png",
         "name": "Frontend Development",
-        "description": ""
+        "description": "Front-end developers use HTML, CSS,  JavaScript, React.js to build the client side of a website. They are responsible for building the visual elements on a page, such as the layout, buttons, menus, forms, and other features that users will see and interact with when they visit a webpage."
     },
     {
         "image": "https://i.ibb.co/gd32ymd/backend-development.png",
         "name": "Backend Development",
-        "description": ""
+        "description": "Back-end development means working on server-side software, which focuses on everything you can't see on a website. Back-end developers ensure the website performs correctly, focusing on databases, back-end logic, application programming interface (APIs), architecture, and servers."
     },
     {
         "image": "https://i.ibb.co/vQZBwSB/full-stack-development.png",
         "name": "Full Stack Development",
-        "description": ""
+        "description": "Full stack development is the process of developing both the frontend and backend of applications. Any application has a frontend (user-facing) component and a backend (database and logic) component."
     }
 ]

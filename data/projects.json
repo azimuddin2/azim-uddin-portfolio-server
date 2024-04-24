@@ -2,73 +2,225 @@
     {
         "image": "https://i.ibb.co/Xjt9ydV/Bistro-Boss-Restaurant.jpg",
         "name": "Bistro Boss Restaurant",
-        "description": "",
-        "link": "https://bistro-boss-restaurant-74fe7.web.app"
+        "description": "A Full Stack Application For Managing A Restaurant. Customers And Admins Can Manage Their Activities. A Role Based Authentication System. Implement A Multi-Layer Dashboard. Connect Server Side For Role Based Access To A Secure API. There is Customer Online Food Order, Table Booking And Payment Gateway Process System. Etc",
+        "link": "https://bistro-boss-restaurant-74fe7.web.app",
+        "Skills": [
+            "HTML",
+            "CSS",
+            "Tailwind CSS",
+            "JavaScript",
+            "React.js",
+            "React Router Dom",
+            "Firebase",
+            "Node.js",
+            "Express.js",
+            "REST API",
+            "MongoDB",
+            "JWT"
+        ]
     },
     {
         "image": "https://i.ibb.co/yXt4Ypp/Doc-House.jpg",
         "name": "Doc House",
-        "description": "",
-        "link": "https://doc-house-a3e35.web.app"
+        "description": "A Full Stack Application For Managing A Clinic Center. Users, Doctors, And Admins Can Manage Their Activities. A Role Based Authentication System. Implement A Multi-Layer Dashboard. Connect Server Side For Role Based Access To A Secure API. Send Email After Successful Booking. Etc",
+        "link": "https://doc-house-a3e35.web.app",
+        "Skills": [
+            "HTML",
+            "CSS",
+            "Tailwind CSS",
+            "JavaScript",
+            "React.js",
+            "React Router Dom",
+            "Firebase",
+            "Node.js",
+            "Express.js",
+            "REST API",
+            "MongoDB",
+            "JWT"
+        ]
     },
     {
         "image": "https://i.ibb.co/Nj5R6Z6/Creative-Agency.jpg",
         "name": "Creative Agency",
-        "description": "",
-        "link": "https://creative-agency-4a381.web.app"
+        "description": "A Full Stack Application For Managing A Creative Agency . Users And Admins Can Manage Their Activities. A Role Based Authentication System. There is Implement A Multi-Layer Dashboard. Connect Server Side For Role Based Access To A Secure API. A creative agency is a service selling website where clients can order services. Etc",
+        "link": "https://creative-agency-4a381.web.app",
+        "Skills": [
+            "HTML",
+            "CSS",
+            "Bootstrap",
+            "JavaScript",
+            "React.js",
+            "React Router Dom",
+            "Firebase",
+            "Node.js",
+            "Express.js",
+            "REST API",
+            "MongoDB"
+        ]
     },
     {
         "image": "https://i.ibb.co/5Bx9G12/Ema-John.jpg",
         "name": "Ema John",
-        "description": "",
-        "link": "https://ema-john-c7081.web.app"
+        "description": "A Ecommerce Ema John website. where the multiple products will be. product will be priced. Can select  product in the cart. Can place order and payment gateway.",
+        "link": "https://ema-john-c7081.web.app",
+        "Skills": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "React.js",
+            "React Router Dom",
+            "Firebase",
+            "Node.js",
+            "Express.js",
+            "MongoDB"
+        ]
     },
     {
         "image": "https://i.ibb.co/WxF0Tk0/Electric-Tool-Manufacturer.jpg",
         "name": "Electric Tool Manufacturer",
-        "description": "",
-        "link": "https://electric-tools-manufactu-a182a.web.app"
+        "description": "A Full Stack Application For Managing A Electric Tool Manufacturer. Customers And Admins Can Manage Their Activities. There is Based Authentication System Login and SignUp Option. Implement A Multi-Layer Dashboard. Connect Server Side For Role Based Access To A Secure API And Json Web Token (JWT). There is Customer Online Multiple Tools Order And Payment Gateway Process System. Etc",
+        "link": "https://electric-tools-manufactu-a182a.web.app",
+        "Skills": [
+            "HTML",
+            "CSS",
+            "Tailwind CSS",
+            "JavaScript",
+            "React.js",
+            "React Router Dom",
+            "Firebase",
+            "Node.js",
+            "Express.js",
+            "REST API",
+            "MongoDB",
+            "JWT"
+        ]
     },
     {
         "image": "https://i.ibb.co/C5RzbV6/Power-X-Gym.jpg",
         "name": "Power X-Gym",
-        "description": "",
-        "link": "https://power-x-gym-7acd1.web.app/"
+        "description": "A gym will have a website. There is gym class admission process and class schedule . What facilities are there? Website development with membership, payment gateway and gym.",
+        "link": "https://power-x-gym-7acd1.web.app",
+        "Skills": [
+            "HTML",
+            "CSS",
+            "Tailwind CSS",
+            "JavaScript",
+            "React.js",
+            "Firebase",
+            "Node.js",
+            "Express.js",
+            "MongoDB"
+        ]
     },
     {
         "image": "https://i.ibb.co/kD4NCgZ/Doctors-Portal.jpg",
         "name": "Doctors Portal",
-        "description": "",
-        "link": "https://doctors-portal-d9414.web.app"
+        "description": "A Full Stack Application For Managing A Clinic Center. Users, Doctors, And Admins Can Manage Their Activities. A Role Based Authentication System.There is Implement A Multi-Layer Dashboard. Connect Server Side For Role Based Access To A Secure API. Set an appointment as a patient by going to the doctor's chamber. View appointment list again as a doctor. Prescription writing related projects. Etc",
+        "link": "https://doctors-portal-d9414.web.app",
+        "Skills": [
+            "HTML",
+            "CSS",
+            "Tailwind CSS",
+            "JavaScript",
+            "React.js",
+            "React Router Dom",
+            "Firebase",
+            "Node.js",
+            "Express.js",
+            "REST API",
+            "MongoDB",
+            "JWT"
+        ]
     },
     {
         "image": "https://i.ibb.co/FYW3TWP/Red-Onion.jpg",
         "name": "Red Onion",
-        "description": "",
-        "link": "https://red-onion-ef492.web.app"
+        "description": "A restaurant website. where the multiple menu will be. Food will be priced. Can select food in the cart. Can place order and payment gateway.",
+        "link": "https://red-onion-ef492.web.app",
+        "Skills": [
+            "HTML",
+            "CSS",
+            "Bootstrap",
+            "JavaScript",
+            "React.js",
+            "Firebase",
+            "Node.js",
+            "Express.js",
+            "REST API",
+            "MongoDB"
+        ]
     },
     {
         "image": "https://i.ibb.co/RjCLkMj/Dragon-News.jpg",
         "name": "Dragon News",
-        "description": "",
-        "link": "https://dragon-news-34c27.web.app"
+        "description": "Enter The World Of Client-Side And Server Side Code Integration For A Simple Dynamic News Portal Website. Load Specific News Data From The Server You Have Developed. Implement Dynamic Api Routes.",
+        "link": "https://dragon-news-34c27.web.app",
+        "Skills": [
+            "HTML",
+            "CSS",
+            "Bootstrap",
+            "JavaScript",
+            "React.js",
+            "Firebase",
+            "Node.js",
+            "Express.js",
+            "REST API",
+            "MongoDB"
+        ]
     },
     {
         "image": "https://i.ibb.co/DDfDGJP/Urban-Riders.jpg",
         "name": "Urban Riders",
-        "description": "",
-        "link": "https://urban-rider-b93a3.web.app"
+        "description": "Much like a simple version of Uber. Where there are different ride options. And from there you can select the option. The Google Map direction will show! etc.",
+        "link": "https://urban-rider-b93a3.web.app",
+        "Skills": [
+            "HTML",
+            "CSS",
+            "Bootstrap",
+            "JavaScript",
+            "React.js",
+            "React Router Dom",
+            "Firebase",
+            "Node.js",
+            "Express.js",
+            "MongoDB"
+        ]
     },
     {
         "image": "https://i.ibb.co/f4FYZ7D/Genius-Car.jpg",
         "name": "Genius Car",
-        "description": "",
-        "link": "https://genius-car-42d50.web.app"
+        "description": "A Ecommerce website. where the multiple product will be. product will be priced. Can select  product in the cart. Can place order and payment gateway. There are specific service booking systems from multiple car services.",
+        "link": "https://genius-car-42d50.web.app",
+        "Skills": [
+            "HTML",
+            "CSS",
+            "Tailwind CSS",
+            "JavaScript",
+            "React.js",
+            "React Router Dom",
+            "Firebase",
+            "Node.js",
+            "Express.js",
+            "REST API",
+            "MongoDB"
+        ]
     },
     {
         "image": "https://i.ibb.co/cwk85tn/Volunteer-Network.jpg",
         "name": "Volunteer Network",
-        "description": "",
-        "link": "https://volunteer-network-158b5.web.app"
+        "description": "A simple website to manage volunteers. Where someone wants to be a volunteer can select from various volunteer jobs. You can book. There Is Based Authentication System Login and Signup option.",
+        "link": "https://volunteer-network-158b5.web.app",
+        "Skills": [
+            "HTML",
+            "CSS",
+            "Material UI",
+            "JavaScript",
+            "React.js",
+            "Firebase",
+            "Node.js",
+            "Express.js",
+            "REST API",
+            "MongoDB"
+        ]
     }
 ]
