@@ -22,6 +22,20 @@ const client = new MongoClient(uri, {
 
 async function run() {
     try {
+        const servicesCollection = client.db('azimUddinPortfolio').collection('services');
+        const projectsCollection = client.db('azimUddinPortfolio').collection('projects');
+
+        app.get('/services', async (req, res) => {
+            const query = {};
+            const services = await servicesCollection.find(query).toArray();
+            res.send(services);
+        });
+
+        app.get('/projects', async (req, res) => {
+            const query = {};
+            const projects = await projectsCollection.find(query).toArray();
+            res.send(projects);
+        });
 
     }
     finally {
