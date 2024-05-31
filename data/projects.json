@@ -39,6 +39,7 @@
             "Express.js",
             "REST API",
             "MongoDB",
+            "Mongoose",
             "JWT"
         ]
     },
@@ -79,6 +80,7 @@
             "Express.js",
             "REST API",
             "MongoDB",
+            "Mongoose",
             "JWT"
         ]
     },
@@ -117,7 +119,8 @@
             "Node.js",
             "Express.js",
             "REST API",
-            "MongoDB"
+            "MongoDB",
+            "Mongoose"
         ]
     },
     {
@@ -188,6 +191,7 @@
             "Express.js",
             "REST API",
             "MongoDB",
+            "Mongoose",
             "JWT"
         ]
     },
@@ -254,6 +258,7 @@
             "Express.js",
             "REST API",
             "MongoDB",
+            "Mongoose",
             "JWT"
         ]
     },
@@ -314,7 +319,7 @@
         "image": "https://i.ibb.co/DDfDGJP/Urban-Riders.jpg",
         "name": "Urban Riders",
         "description": "Much like a simple version of Uber. Where there are different ride options. And from there you can select the option. The Google Map direction will show! etc.",
-        "link": "https://urban-rider-b93a3.web.app",
+        "link": "https://urbanrider-service.netlify.app",
         "images": [
             "https://i.ibb.co/JnqnXFF/Home.png",
             "https://i.ibb.co/qF6pGpv/Contact-Us.png",
@@ -397,6 +402,59 @@
             "Express.js",
             "REST API",
             "MongoDB"
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/yQmys7F/Career-Hub.png",
+        "name": "Career Hub",
+        "description": "Throughout this project, You will be able to master the react router dom, Set the layout, and navigate to pages. You will understand how the outlet works and how a dynamic route can be implemented. You will learn how to implement filter using a specific data and applied jobs filter by data load.",
+        "link": "https://careerhub-job.netlify.app",
+        "images": [
+            "https://i.ibb.co/yQmys7F/Career-Hub.png",
+            "https://i.ibb.co/0QQx5xj/Job-Details.png",
+            "https://i.ibb.co/4WPVktG/Applied-Jobs.png",
+            "https://i.ibb.co/DDK1VNP/Blog.png"
+        ],
+        "skills": [
+            "HTML",
+            "CSS",
+            "Tailwind CSS",
+            "JavaScript",
+            "React.js",
+            "React Router",
+            "Node.js",
+            "Express.js",
+            "MongoDB",
+            "Netlify Tool"
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/PDMpJHy/Monthly-Expenses-Calculator.png",
+        "name": "Expenses Calculator",
+        "description": "I implemented essential JavaScript core concepts, including DOM manipulation and handling key events, to create an interactive website called cost calculator. This website allows users to calculate their monthly expenses efficiently.",
+        "link": "https://money-expenses-calculator.netlify.app",
+        "images": [
+            "https://i.ibb.co/PDMpJHy/Monthly-Expenses-Calculator.png"
+        ],
+        "skills": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/nLnscM4/Success-message.png",
+        "name": "Pin Matcher",
+        "description": "I implemented essential JavaScript core concepts, including DOM manipulation and handling key events, to create an interactive website called Pin Matcher. This website allows users to generate and match PINs, providing success and failure messages based on the matching result.",
+        "link": "https://azimuddin2.github.io/pin-matcher",
+        "images": [
+            "https://i.ibb.co/nLnscM4/Success-message.png",
+            "https://i.ibb.co/jRT3M2z/Fail-message.png"
+        ],
+        "skills": [
+            "HTML",
+            "CSS",
+            "JavaScript"
         ]
     }
 ]
