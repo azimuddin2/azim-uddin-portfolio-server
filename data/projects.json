@@ -456,5 +456,48 @@
             "CSS",
             "JavaScript"
         ]
+    },
+    {
+        "image": "https://i.ibb.co.com/CwsjN8R/user-service.png",
+        "name": "User & Admin Management Backend",
+        "description": "This back-end development project implements a robust User & Admin Management system using Express and MongoDB. Key features include user registration, account activation, profile management, and password recovery. Authentication is handled via JWT tokens with secure cookie management. Admins can manage users, including search, pagination, and banning. Security measures include input validation, password hashing, rate limiting, and protection from XSS attacks. Comprehensive middleware and seed data APIs ensure a smooth, scalable development process.",
+        "link": "https://github.com/azimuddin2/user-admin-management-backend",
+        "images": [
+            "https://i.ibb.co.com/Byt5MvV/user-model.png",
+            "https://i.ibb.co.com/qpKGn7X/user-router.png",
+            "https://i.ibb.co.com/rM14mPN/user-controller.png",
+            "https://i.ibb.co.com/CwsjN8R/user-service.png"
+        ],
+        "skills": [
+            "Node.js",
+            "ExpressJS",
+            "MongoDB",
+            "Mongoose",
+            "REST API",
+            "JWT",
+            "Postman",
+            "GitHub"
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/Ks9G87n/product-controller.png",
+        "name": "E-commerce MERN Stack",
+        "description": "This back-end development project focuses on creating a secure and scalable e-commerce platform using the MERN stack. It includes features like category and product management with CRUD operations, validation, and search functionality. Security is enforced with rate limiting, XSS protection, and JWT-based authentication. Middleware ensures role-based access control, file handling, and data validation. The project follows the MVC software architecture and integrates MongoDB Atlas for data storage, providing a solid foundation for e-commerce application.",
+        "link": "https://github.com/azimuddin2/ecommerce-mern-stack-server",
+        "images": [
+            "https://i.ibb.co.com/qMhjQy6/product-model.png",
+            "https://i.ibb.co.com/Ks9G87n/product-controller.png",
+            "https://i.ibb.co.com/PmzJwKN/product-service.png"
+        ],
+        "skills": [
+            "Node.js",
+            "ExpressJS",
+            "MongoDB",
+            "Mongoose",
+            "REST API",
+            "JWT",
+            "Postman",
+            "GitHub"
+        ]
     }
 ]
